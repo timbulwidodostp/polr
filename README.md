@@ -1,6 +1,8 @@
 # polr
 Ordered Logistic or Probit Regression Use polr (MASS) With (In) R Software
 
+https://www.youtube.com/watch?v=4rw-cMLf7uw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
